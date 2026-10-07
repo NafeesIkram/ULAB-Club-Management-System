@@ -1,4 +1,8 @@
 # ULAB Club Management System
+![Java](https://img.shields.io/badge/Java-17-orange)
+![Java Swing](https://img.shields.io/badge/Framework-Java%20Swing-blue)
+![NetBeans](https://img.shields.io/badge/IDE-NetBeans-purple)
+![Maven](https://img.shields.io/badge/Build-Maven-red)
 
 A Java Swing-based University Club Management System developed as a University Design Project.
 
